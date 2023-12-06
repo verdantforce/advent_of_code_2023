@@ -2,7 +2,9 @@
 // cargo run --bin day3
 
 fn part1(input: &str) -> u32 {
-    !unimplemented!()
+    let mut nums = Vec::new();
+    for (i, s) in input.lines().enumerate() {}
+    0
 }
 
 fn part2(input: &str) -> u32 {
